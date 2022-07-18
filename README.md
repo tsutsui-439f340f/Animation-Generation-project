@@ -1,4 +1,4 @@
-# Animation generation project
+# Animation-Generation-project
 本プロジェクトは2022/05/03に個人的に始めたプロジェクトです。
 # 目的
 本プロジェクトの目的は、テキストからアニメーションの作成を行うことです。
