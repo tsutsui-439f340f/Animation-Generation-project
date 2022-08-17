@@ -21,7 +21,7 @@
 このデータセットのシーンの定義は場面が一瞬で切り替わるものを指しており、トランジションが使われているシーンは前後まとめて1シーンとしています。\
 フレーム数：平均66.1個
 ![image](https://user-images.githubusercontent.com/55880071/184421152-2e0ec69f-268e-469b-a8c7-32f678697baf.png)
-秒数：2.54秒
+秒数：平均2.54秒
 ![image](https://user-images.githubusercontent.com/55880071/184421130-2e3d10b7-4917-4e54-a4b8-643a35fc5147.png)
 
 
