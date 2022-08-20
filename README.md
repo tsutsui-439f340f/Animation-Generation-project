@@ -24,6 +24,8 @@
 秒数：平均2.54秒
 ![image](https://user-images.githubusercontent.com/55880071/184421130-2e3d10b7-4917-4e54-a4b8-643a35fc5147.png)
 
+## データ収集状況
+![image](https://user-images.githubusercontent.com/55880071/185758496-2774ede8-e99e-4c82-b0b6-300500004e7f.png)
 
 
 
