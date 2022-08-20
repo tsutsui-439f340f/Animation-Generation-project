@@ -7,9 +7,7 @@
 ## 動画生成モデルサンプル
 入力動画の解像度を下げてAEをCNNモデルで学習した結果
 
-
-
-https://user-images.githubusercontent.com/55880071/185759983-fe6b11ca-3060-4d8c-bee2-9cc1e46a2d8f.mp4
+https://user-images.githubusercontent.com/55880071/185760176-facfbd1b-6475-4862-9606-241bf9e5064e.mp4
 
 
 
