@@ -8,7 +8,9 @@
 入力動画の解像度を下げてAEをCNNモデルで学習した結果
 
 
-https://user-images.githubusercontent.com/55880071/185759868-cf73d383-e321-4e90-8e7c-301f1ba81593.mp4
+
+https://user-images.githubusercontent.com/55880071/185759919-5a1c5067-6f1a-4886-a41e-ea3f5c1b9a9a.mp4
+
 
 
 
